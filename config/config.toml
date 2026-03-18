@@ -1,0 +1,6 @@
+[app]
+name = "Complex Enterprise System"
+version = "1.0.0"
+
+[service]
+flag = true
